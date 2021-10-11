@@ -1,0 +1,4 @@
+NODE_ENV="development"
+MONGODB_URI_DEV="mongodb://127.0.0.1:27017/press"
+APP_SECRET_KEY_DEV="secret"
+PORT=4000
